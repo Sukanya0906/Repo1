@@ -1,2 +1,4 @@
 Hello Git world ! I am new to you !!! 
 Nice to meet you !!
+
+See you around !! Happy Weekend !!
